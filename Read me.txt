@@ -1,0 +1,10 @@
+Berikut merupakan keterangan kode saya:
+
+1. untuk menjalankan buka index.php dengan webserver apache.
+2. user dapat menginputkan banyak kendaraan yang akan parkir dengan memasukkan waktu pada inputan "In time".
+3. untuk kendaraan yang akan keluar parkir, user dapat memasukkan inputan waktu keluar pada kolom action sesuai dengan ID kendaraan.
+4. setelah kendaraan keluar, maka akan keluar alert berupa total yang harus dibayarkan
+
+Nama 	: Yusril Bagas Panji Pamukti
+email 	: yusrilbagas135@gmail.com
+WA 	: 085943451725
